@@ -1,0 +1,14 @@
+com\coches\backend\repository\CocheRepository.class
+com\coches\backend\service\CocheService.class
+com\coches\backend\criteria\CocheCriteria$ColorFilter.class
+com\coches\backend\repository\MarcaRepository.class
+com\coches\backend\model\Coche_.class
+com\coches\backend\model\Modelo_.class
+com\coches\backend\model\Marca.class
+com\coches\backend\criteria\CocheCriteria.class
+com\coches\backend\model\Marca_.class
+com\coches\backend\enums\Color.class
+com\coches\backend\model\Coche.class
+com\coches\backend\CochesBackendApplication.class
+com\coches\backend\model\Modelo.class
+com\coches\backend\service\MarcaService.class
